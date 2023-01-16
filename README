@@ -1,0 +1,23 @@
+- Git Commands
+
+
+git init (initialize a local git repo)
+
+git add * (add all files to be stage to commit to local repo)
+
+git commit -m "give it a relevant and appropriate message"
+
+git branch (show existing branch)
+
+git branch --list (show all branches you have locally)
+
+git branch -M main (switch from existing branch to main)
+
+git remote add origin https://github.com/Vincent-SWE/day2_sdfworkshop.git (linking your remote repo)
+
+git push -u origin main (origin refers to your remote repo. You are pushing from your remote repo to your main branch)
+
+git pull
+
+
+git add README.md (to check in only this file)
